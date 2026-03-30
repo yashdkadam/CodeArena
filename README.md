@@ -8,8 +8,6 @@ Here's a demo video showcasing the functionality for the project
 
 ![Demo video](assets/demo.gif)
 
-
-
 ## 🌟 Features
 
 - ⚔️ **Real-Time Coding Battles**
