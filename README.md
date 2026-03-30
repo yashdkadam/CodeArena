@@ -4,7 +4,7 @@ A real-time competitive coding platform where developers battle head-to-head to 
 First correct solution wins — pure speed, pure logic, pure skill.
 
 ---
-Here's a demo video showcasing the functionality for the project
+Here's a demo video showcasing the functionality of the project
 
 ![Demo video](assets/demo.gif)
 
