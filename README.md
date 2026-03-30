@@ -6,9 +6,10 @@ First correct solution wins — pure speed, pure logic, pure skill.
 ---
 Here's a demo video showcasing the functionality for the project
 
-![](/assets/video.webm)
-
-
+<video width="100%" controls>
+  <source src="assets/video.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ## 🌟 Features
 
