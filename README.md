@@ -6,7 +6,7 @@ First correct solution wins — pure speed, pure logic, pure skill.
 ---
 Here's a demo video showcasing the functionality for the project
 
-![](/assets/video.webm)
+![Demo video](assets/demo.gif)
 
 
 
